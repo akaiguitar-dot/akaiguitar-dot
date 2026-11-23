@@ -25,8 +25,8 @@ Architect & Founder of **City Atlas** | Exploring Autonomous Multi-Agent Systems
 
 ### 🌐 Featured Projects
 
-- **City Atlas**: Open-data driven 3D spatial simulation and pedestrian accessibility platform.
-- **Multi-Agent Ops Console**: A modular operations dashboard for coordinated AI agent swarms and engineering governance.
+- **[Agent Ops Console](https://github.com/akaiguitar-dot/agent-ops-console)** — Human-in-the-loop operations console for running Claude, Codex and Gemini agents concurrently on one codebase: workline-driven prompts (no Markdown rulebooks), Git worktree isolation, shared hard guards, Face ID deploy tickets, quota governance. 1,500 offline tests in the open-source package; 10,490 across the full production console.
+- **[City Atlas](https://cityatlas.tw)** — Open-data driven 3D spatial simulation and pedestrian accessibility platform for Zhubei / Hsinchu, built and operated by the agent team above.
 
 ---
 
